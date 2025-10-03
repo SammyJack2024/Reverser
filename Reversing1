@@ -1,0 +1,7 @@
+# Day 1 - GDB Basics
+- Learned how to run `gdb ./program`
+- Commands practiced:
+  - `break main`
+  - `run`
+  - `next` and `step`
+- Struggled with remembering `info registers`
